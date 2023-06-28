@@ -1,0 +1,7 @@
+numpy
+torch
+torch-lucent
+wget
+torchinfo
+tqdm
+ipympl
