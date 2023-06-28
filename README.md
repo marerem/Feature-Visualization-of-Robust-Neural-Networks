@@ -1,7 +1,7 @@
 # Computational Photography Project
 Team : Ewan André Golfier, Ulysse Widmer, Mariia Eremina
 
-## Project 3: Feature Visualization - Robust Neural Networks
+## Project : Feature Visualization - Robust Neural Networks
 ### Literature review
 You can find a literature review in the corresponding folder. There is (should be) a list of the papers we read as well as short descriptions in [`literature-review/README.md`](literature-review/README.md).
 
