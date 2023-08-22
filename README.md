@@ -2,7 +2,7 @@
 Team : Ewan André Golfier, Ulysse Widmer, Mariia Eremina
 
 ## Project : Feature Visualization - Robust Neural Networks
-This project aims to employ feature visualization techniques to analyze sensitive neurons, chan- nels, or layers in both robust and non-robust neural networks. Specifically, we will focus on the ResNet34 model and compare its non-robust variant obtained from the PyTorch library with the robust variant obtained from Robust.Art. To identify the sensitive neurons, we will generate adversarial images using the validation dataset of ImageNet100 to deceive the models. Subsequently, we will compare and contrast the feature visualizations of the sensitive neurons across the different models.
+This project aims to employ feature visualization techniques to analyze sensitive neurons, channels, or layers in both robust and non-robust neural networks. Specifically, we will focus on the ResNet34 model and compare its non-robust variant obtained from the PyTorch library with the robust variant obtained from Robust.Art. To identify the sensitive neurons, we will generate adversarial images using the validation dataset of ImageNet100 to deceive the models. Subsequently, we will compare and contrast the feature visualizations of the sensitive neurons across the different models.
 ### Literature review
 You can find a literature review in the corresponding folder. There is (should be) a list of the papers we read as well as short descriptions in [`literature-review/README.md`](literature-review/README.md).
 
